@@ -15,5 +15,7 @@ class Fibonacci3
 			b=a+c;
 			System.out.println(b);
 		}
+		System.out.println("Print Fibonacci series");
+		System.out.println("Print Fibonacci series");
 	}
 }
