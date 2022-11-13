@@ -13,6 +13,5 @@ class Fibonacci2
 			b=a+c;
 			System.out.println(b);
 		}
-		/added a new line
 	}
 }
