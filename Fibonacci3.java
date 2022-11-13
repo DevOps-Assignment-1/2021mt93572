@@ -13,7 +13,8 @@ class Fibonacci3
 			b=a+c;
 			System.out.println(b);
 		}
-				//made change here
+
+		System.out.println("Print Fibonacci series");
 		System.out.println("Print Fibonacci series");
 	}
 }
